@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/Users/derekmardian/Documents/workspace/vagrant_dev/cookbooks/rubydev/recipes'
+let g:netrw_dirhist_2='/Users/derekmardian/.vim'
+let g:netrw_dirhist_3='/Users/derekmardian/Documents/workspace/vagrant_dev/cookbooks/rubydev/files'
+let g:netrw_dirhist_4='/Users/derekmardian/Documents/workspace/vagrant_dev/cookbooks/rubydev/recipes'
+let g:netrw_dirhist_5='/Users/derekmardian/.vim'
+let g:netrw_dirhist_6='/Users/derekmardian/.eclim'
